@@ -2,7 +2,7 @@
   "name": "sk-it-solutions",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/iWolfyy/sk-it-solutions",
+  "homepage": "https://iwolfyy.github.io/sk-it-solutions",
   "type": "module",
   "scripts": {
     "dev": "vite",
