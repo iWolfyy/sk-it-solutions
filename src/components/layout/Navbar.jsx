@@ -34,10 +34,10 @@ export default function Navbar() {
   const navLinks = [
     { name: "Home", href: "/" },
     { name: "About", href: "/about" }, 
-    { name: "Services", href: "/Services" },
-    { name: "Projects", href: "/Projects" },
-    { name: "Downloads", href: "/Downloads"},
-    { name: "Contact Us", href: "/Contact-Us"}
+    { name: "Services", href: "/services" },
+    { name: "Projects", href: "/projects" },
+    { name: "Downloads", href: "/downloads"},
+    { name: "Contact Us", href: "/contact-us"}
   ];
 
   return (
