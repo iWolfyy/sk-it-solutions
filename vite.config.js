@@ -5,7 +5,7 @@ import path from "path";
 export default defineConfig({
   plugins: [react()],
   // Add the base property here:
-  base: "/sk-it-solutions/", 
+  base: "/", 
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
